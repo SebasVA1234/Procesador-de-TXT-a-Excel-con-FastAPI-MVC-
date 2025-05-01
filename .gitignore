@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+.env/
+.envrc
+__pycache__/
+poetry.lock
+
+# Archivos temporales
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de salida
+*.xlsx
+output/
+uploads/
+
+# Configs VSCode (opcional)
+.vscode/
